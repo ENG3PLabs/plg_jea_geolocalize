@@ -3,12 +3,12 @@
 	<name>JEA - geolocalize</name>
 	<author>Sylvain Philip</author>
 	<creationDate>nov 2013</creationDate>
-	<copyright>Copyright (C) 2011 Sylvain Philip.</copyright>
+	<copyright>Copyright (C) 2019 Sylvain Philip.</copyright>
 	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
 	<authorEmail>contact@sphilip.com</authorEmail>
 	<authorUrl>www.sphilip.com</authorUrl>
-	<version>1.0</version>
-	<description>This plugin call the Google map geolocalisation API to automatically found latitude and longitude when saving properties.</description>
+	<version>1.1</version>
+	<description>Call the Google map geocoding API to automatically found latitude and longitude from location when saving properties.</description>
 
 	<files>
 		<filename plugin="geolocalize">geolocalize.php</filename>
